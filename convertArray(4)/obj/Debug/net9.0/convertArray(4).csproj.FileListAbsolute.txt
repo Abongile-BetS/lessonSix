@@ -1,0 +1,15 @@
+C:\dev\cSharpBootcamp\devCamp\lessonSix\convertArray(4)\bin\Debug\net9.0\convertArray(4).exe
+C:\dev\cSharpBootcamp\devCamp\lessonSix\convertArray(4)\bin\Debug\net9.0\convertArray(4).deps.json
+C:\dev\cSharpBootcamp\devCamp\lessonSix\convertArray(4)\bin\Debug\net9.0\convertArray(4).runtimeconfig.json
+C:\dev\cSharpBootcamp\devCamp\lessonSix\convertArray(4)\bin\Debug\net9.0\convertArray(4).dll
+C:\dev\cSharpBootcamp\devCamp\lessonSix\convertArray(4)\bin\Debug\net9.0\convertArray(4).pdb
+C:\dev\cSharpBootcamp\devCamp\lessonSix\convertArray(4)\obj\Debug\net9.0\convertArray(4).GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\cSharpBootcamp\devCamp\lessonSix\convertArray(4)\obj\Debug\net9.0\convertArray(4).AssemblyInfoInputs.cache
+C:\dev\cSharpBootcamp\devCamp\lessonSix\convertArray(4)\obj\Debug\net9.0\convertArray(4).AssemblyInfo.cs
+C:\dev\cSharpBootcamp\devCamp\lessonSix\convertArray(4)\obj\Debug\net9.0\convertArray(4).csproj.CoreCompileInputs.cache
+C:\dev\cSharpBootcamp\devCamp\lessonSix\convertArray(4)\obj\Debug\net9.0\convertArray(4).sourcelink.json
+C:\dev\cSharpBootcamp\devCamp\lessonSix\convertArray(4)\obj\Debug\net9.0\convertArray(4).dll
+C:\dev\cSharpBootcamp\devCamp\lessonSix\convertArray(4)\obj\Debug\net9.0\refint\convertArray(4).dll
+C:\dev\cSharpBootcamp\devCamp\lessonSix\convertArray(4)\obj\Debug\net9.0\convertArray(4).pdb
+C:\dev\cSharpBootcamp\devCamp\lessonSix\convertArray(4)\obj\Debug\net9.0\convertArray(4).genruntimeconfig.cache
+C:\dev\cSharpBootcamp\devCamp\lessonSix\convertArray(4)\obj\Debug\net9.0\ref\convertArray(4).dll
